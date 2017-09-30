@@ -8,6 +8,7 @@ Getting Started
 4. Search for <code>&nbsp;wordpress_starter_theme</code> (with a space before it) to capture DocBlocks.
 5. Search for `wordpress-starter-theme-` to capture prefixed handles.
 6. Search for `http://domain.dev/` to change local proxy name. 
+
 OR
 
 1. Search for: `'wordpress-starter-theme'` and replace with: `'my-theme'`
