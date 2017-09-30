@@ -33,4 +33,4 @@ That is it.
 
 Things left to do.
 
-- Make react loaders only listen to certain. 
+- Make Webpack loaders only listen to certain. 
