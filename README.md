@@ -33,4 +33,4 @@ That is it.
 
 Things left to do.
 
-- Make Webpack loaders only listen to certain. 
+- Make Webpack loaders only listen to certain folders. 
